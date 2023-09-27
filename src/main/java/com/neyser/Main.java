@@ -28,7 +28,7 @@ public class Main {
             pathnames = file2.list();
 
             for (String pathname: pathnames) {
-                System.out.println("Nombre de ficher: "+pathname);
+                System.out.println("Nombre de fichero: "+pathname);
             }
 
         }
